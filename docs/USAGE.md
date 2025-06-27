@@ -8,4 +8,4 @@ python todo.py list
 python todo.py complete 1
 
 # Delete task
-python todo.py delete 1pip install requirement.txt
+python todo.py delete 1
