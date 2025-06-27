@@ -11,7 +11,7 @@ A CLI-based task manager with persistent storage.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/todo-manager.git
+git clone https://github.com/yabukera/todo-manager.git
 cd todo-manager
 pip install -r requirements.txt# Todo-manager-python
 Todo manager using python
